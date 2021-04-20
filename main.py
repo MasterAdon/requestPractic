@@ -23,5 +23,5 @@ hero_intell.update(c)
 
 # print(hero_intell)
 task_list = sorted(hero_intell.keys())
-# print(task_list)  #Вывод списка героев отсортьированного по интеллекту
+# print(task_list)  #Вывод списка героев отсортированного по интеллекту
 
